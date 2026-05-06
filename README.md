@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi, I'm Anton Inkin 👋
 
-<!--
-**antoninkin/antoninkin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a full-stack software engineer based in Sydney, with 1+ year of professional experience at UTS (University of Technology Sydney). I enjoy building clean and functional web apps.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 About Me
+
+- **Experience:** Junior Software Engineer @ UTS, contributing to research and civic tech platforms
+  - AI governance, open-source tools, semantic search, systems thinking
+- **Background:** Bachelor of Information Technology, Victoria University Sydney — Graduated with Distinction (GPA 6.33)
+- **Focus areas:** Angular / TypeScript, React, Firebase, AWS, CI/CD pipelines
+
+---
+
+## 🚀 Projects
+
+### [AI Policy Dashboard](https://github.com/democratising-ai/ai-policy-dashboard)
+Angular app that tracks and visualises AI governance policies. Features GitHub API write-back for live content updates, CI/CD via GitHub Actions, and a structured policy data model.
+`Angular` `TypeScript` `GitHub API` `GitHub Actions`
+
+### [Democratising AI Platform](https://github.com/democratising-ai/democratising-ai.github.io)
+Educational platform making AI accessible to policymakers, educators, and students. Built with Jekyll, features faceted browsing, full-text search, and GitHub Pages deployment with automated paper imports from Zotero.
+`Jekyll` `Bootstrap` `Zotero` `GitHub Pages`
+
+### [Twineed](https://github.com/democratising-ai/twineed)
+Collaborative story editor with a drag-and-drop canvas, real-time Firebase sync, and Netlify serverless functions. Designed for co-authoring branching narratives.
+`React` `Firebase` `Netlify` `JavaScript`
+
+### [Semantra (Extended Fork)](https://github.com/antoninkin/semantra)
+Extended a Python/Svelte semantic search engine with additional document processing and embedding support. Works with local ML models and OpenAI embeddings for privacy-preserving document search.
+`Python` `Svelte` `OpenAI API` `ML Embeddings`
+
+### [Loopy (Extended Fork)](https://github.com/antoninkin/loopy)
+Systems thinking visualiser — extended with additional UI features and interactivity for educational use in research contexts.
+`JavaScript` `SVG` `UI/UX`
+
+### [ParkMate](https://parkmate-pmsapp.web.app)
+Full-stack parking management SPA — team lead role. Includes Google Maps/Places API integration, real-time booking, admin and customer workflows, and GitHub Actions CI/CD.
+`React` `Node.js` `Firebase` `Google Maps API` `GitHub Actions`
+
+---
+
+*Thanks for stopping by!*
