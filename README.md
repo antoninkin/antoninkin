@@ -1,15 +1,4 @@
-# Hi, I'm Anton Inkin 👋
-
-I'm a full-stack software engineer based in Sydney, with 1+ year of professional experience at UTS (University of Technology Sydney). I enjoy building clean and functional web apps.
-
----
-
-## 🧑‍💻 About Me
-
-- **Experience:** Junior Software Engineer @ UTS, contributing to research and civic tech platforms
-  - AI governance, open-source tools, semantic search, systems thinking
-- **Background:** Bachelor of Information Technology, Victoria University Sydney — Graduated with Distinction (GPA 6.33)
-- **Focus areas:** Angular / TypeScript, React, Firebase, AWS, CI/CD pipelines
+# Hi, I'm Anton
 
 ---
 
